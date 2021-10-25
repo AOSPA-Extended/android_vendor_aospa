@@ -15,6 +15,7 @@
 # Product Makefiles
 PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/alioth/aospa_alioth.mk \
+    $(LOCAL_DIR)/ginkgo/aospa_ginkgo.mk \
     $(LOCAL_DIR)/lisa/aospa_lisa.mk \
     $(LOCAL_DIR)/mini5g/aospa_mini5g.mk \
     $(LOCAL_DIR)/oneplus9/aospa_oneplus9.mk \
@@ -23,6 +24,7 @@ PRODUCT_MAKEFILES += \
 # Lunch targets
 COMMON_LUNCH_CHOICES += \
     aospa_alioth-userdebug \
+    aospa_ginkgo-userdebug \
     aospa_lisa-userdebug \
     aospa_mini5g-userdebug \
     aospa_oneplus9-userdebug \
