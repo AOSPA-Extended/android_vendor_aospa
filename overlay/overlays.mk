@@ -20,7 +20,6 @@ PRODUCT_PACKAGES += \
     AOSPASettingsOverlay \
     AOSPASettingsProviderOverlay \
     AOSPASystemUIOverlay \
-    ParanoidLauncherOverlay \
     FontInterOverlay \
     FontManropeOverlay \
     FontUrbanistOverlay \
@@ -30,4 +29,7 @@ PRODUCT_PACKAGES += \
     FontManropeOverlay \
     FontRobotoOverlay \
     FontUrbanistOverlay \
-    FontSlateForOnePlus
+    FontSlateForOnePlus \
+    ParanoidLauncherOverlay \
+    SettingsOverlay \
+    ThemePickerOverlay
