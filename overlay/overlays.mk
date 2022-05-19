@@ -25,6 +25,7 @@ PRODUCT_PACKAGES += \
     FontManropeOverlay \
     FontUrbanistOverlay \
     FontGoogleSansLatoOverlay \
+    FontHarmonySansOverlay \
     FontInterOverlay \
     FontManropeOverlay \
     FontRobotoOverlay \
