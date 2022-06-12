@@ -193,4 +193,11 @@
     <string name="combined_status_bar_signal_icons">Icones de sinal unificado</string>
     <string name="combined_status_bar_signal_icons_summary">Exibir icone unificado entre Wi-Fi e dados móveis</string>
 
+    <!-- Battery temperature -->
+    <string name="battery_temp">Temperatura da bateria</string>
+
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Redefinir estatísticas</string>
+    <string name="battery_stats_message">As estatísticas do histórico da bateria serão redefinidas</string>
+
 </resources>
